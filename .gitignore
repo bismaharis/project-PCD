@@ -1,0 +1,9 @@
+train/
+.venv/
+__pycache__/
+
+__pycache__
+
+myenv/
+
+test/
